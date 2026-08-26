@@ -1,0 +1,19 @@
+# Unreal Engine
+software/unreal/Intermediate/
+software/unreal/Saved/
+software/unreal/DerivedDataCache/
+*.target.cs
+*.Target.cs
+
+# Gowin EDA / FPGA Build Artifacts
+fpga/gowin_project/impl/
+*.fs
+*.log
+
+# C++ / JUCE / IDEs
+Builds/
+JuceLibraryCode/
+.vs/
+.vscode/
+*.o
+*.exe
