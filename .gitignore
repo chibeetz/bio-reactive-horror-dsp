@@ -17,3 +17,14 @@ JuceLibraryCode/
 .vscode/
 *.o
 *.exe
+
+# Xcode and Build outputs
+Builds/MacOSX/build/
+DerivedData/
+*.app
+*.vst3
+*.component
+*.dsym
+
+# OS files
+.DS_Store
